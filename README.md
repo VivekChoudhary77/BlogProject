@@ -7,4 +7,4 @@ Bootstrap Blog Template Clone
 ---
 ![alt text](https://github.com/VivekChoudhary77/BlogProject/blob/main/Images/Screenshot%20(5).png)
 ---
-![alt text](https://github.com/VivekChoudhary77/BlogProject/blob/main/Images/Screenshot%20(5).png)
+![alt text](https://github.com/VivekChoudhary77/BlogProject/blob/main/Images/Screenshot%20(6).png)
